@@ -166,3 +166,10 @@ a:hover {
 .footer a:hover {
     text-decoration: underline;
 }
+
+
+.loginlink{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
